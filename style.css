@@ -72,6 +72,7 @@ body {
 
 @media (min-width: 900px) {
   .heading {
+    top: 10%;
     background: rgba(255, 255, 255, 0.15);
   }
 }
